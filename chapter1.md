@@ -53,4 +53,18 @@ If all is good, you will be asked to proceed to installation.
 ![](croogo_installation_database.png)
 
 Typical setting would be
-D
+```
+Host: localhost
+Login: mysql_username
+Password: mysql_password
+Name: my_database_name
+Prefix: 
+Port: 
+```
+
+Next you will be asked to build database for croogo. 
+![Croogo Installation: Build Database](croogo_installation_build_db.png)
+
+![Croogo Installation: Create Admin User](croogo_create_admin.png)
+
+![Croogo Installation: Successful](croogo_installation_successful.png)
