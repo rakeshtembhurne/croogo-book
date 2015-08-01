@@ -36,3 +36,13 @@ server {
 - 
 
 ### Installing on Apache Server
+
+### Setting Up Database
+![Croogo Minimum Requirements Error](croogo_installation_error.png)
+
+When first time visiting the page you may encounter such problem. This is a sign that minimum requirements are not met.
+
+You will need to give enough permissions to your server on your development machine.
+
+```sudo chown -R $USER:www-data path/to/croogo```
+
