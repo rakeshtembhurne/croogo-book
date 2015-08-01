@@ -50,4 +50,7 @@ If all is good, you will be asked to proceed to installation.
 ![Proceed to Step 1](croogo_proceed_installation.png)
 
 #### Database Settings
-![](croogo_installation_step_database.png)
+![](croogo_installation_database.png)
+
+Typical setting would be
+D
